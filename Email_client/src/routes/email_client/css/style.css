@@ -1,0 +1,13 @@
+.composeBtnCls{
+    background: rgb(30, 144, 255);
+    border-radius: 30px;
+}
+.lockCheckboxCls{
+    padding-left: 10px;
+    margin-top: -4px;
+}
+.hrCls{
+    margin-bottom: 1rem;
+    margin-top: -1rem;
+}
+ 
